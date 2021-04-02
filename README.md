@@ -1,2 +1,3 @@
-### Olá, meu nome é Thiago Brito, estou sempre curioso :D <br/> Seja Bem-Vindo
+ <p>Olá, meu nome é Thiago Brito, e o GitHub tem sido meu Lab </br>
+Seja Bem-Vindo a ele :dragon_face: </p>
 
