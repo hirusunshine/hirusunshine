@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Thiago Brito, estou sempre curioso :D <br/> Seja Bem-Vindo
 
 <!--
 **hirusunshine/hirusunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
